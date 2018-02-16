@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RunExEditor"
         mc:Ignorable="d"
-        Title="RunExEditor ver0.0.1" Height="350" Width="525">
+        Title="RunExEditor ver0.0.1" Height="450" Width="800" Background="White" Topmost="True">
     <Grid>
-        
+        <Menu x:Name="MainMenuBar" Height="22" VerticalAlignment="Top">
+            <MenuItem Header="ファイル(_F)" FontFamily="Meiryo UI" Height="22" TextOptions.TextHintingMode="Fixed">
+                <MenuItem Header="開く(_O)" InputGestureText="Ctrl+O"/>
+                <Separator/>
+                <MenuItem Header="終了(_X)" InputGestureText="Alt+F4" Click="Exit_Button"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="編集(_E)">
+                <MenuItem Header="コピー" InputGestureText="Ctrl+C" IsEnabled="False"/>
+            </MenuItem>
+            <MenuItem Header="表示(_V)">
+                <MenuItem Header="全画面表示(_U)" InputGestureText="Ctrl+C" IsEnabled="False" />
+            </MenuItem>
+            <MenuItem Header="ツール(_T)">
+                <Separator/>
+                <MenuItem Header="レジストリ エディターを起動する(_R)" Click="OpenRegEdit_Button"/>
+            </MenuItem>
+            <MenuItem Header="ヘルプ(_H)">
+                <MenuItem Header="バージョン情報(_A)" IsEnabled="False"/>
+            </MenuItem>
+        </Menu>
+
     </Grid>
 </Window>
