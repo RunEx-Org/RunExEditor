@@ -1,16 +1,17 @@
 # RunExEditor
 
-## ŠT—v
-–{ƒc[ƒ‹‚ÍAuƒtƒ@ƒCƒ‹‚ðŽw’è‚µ‚ÄŽÀsv(Win+R)‚É‚æ‚é“®ì‚ðŠÈ’P‚É•ÒW‚Å‚«‚é‚æ‚¤‚É‚·‚é‚½‚ß‚Ì‚à‚Ì‚Å‚ ‚éB
-‚Ü‚½Aã‹L‚É‚Æ‚Ç‚Ü‚ç‚¸AƒGƒNƒXƒvƒ[ƒ‰‚ÌƒAƒhƒŒƒXƒo[‚É“ü—Í‚µ‚½ê‡‚Å‚à“¯“™‚È“®ì‚ð‚·‚é‚æ‚¤‚É‚·‚éB
+## ï¿½Tï¿½v
+ï¿½{ï¿½cï¿½[ï¿½ï¿½ï¿½ÍAï¿½uï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½wï¿½è‚µï¿½ÄŽï¿½sï¿½v(Win+R)ï¿½É‚ï¿½é“®ï¿½ï¿½ï¿½È’Pï¿½É•ÒWï¿½Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½é‚½ï¿½ß‚Ì‚ï¿½Ì‚Å‚ï¿½ï¿½ï¿½B
+ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½Lï¿½É‚Æ‚Ç‚Ü‚ç‚¸ï¿½Aï¿½Gï¿½Nï¿½Xï¿½vï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÌƒAï¿½hï¿½ï¿½ï¿½Xï¿½oï¿½[ï¿½É“ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½Å‚ï¿½ï¿½ï¿½ï¿½È“ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½ï¿½B
 
-## à–¾
-uƒtƒ@ƒCƒ‹‚ðŽw’è‚µ‚ÄŽÀsv(‰pŒê‚Å‚ÍRun)‚ÍAWin+RƒL[‚ð‰Ÿ‰º‚·‚é‚±‚Æ‚Å‹N“®‚·‚éƒ\ƒtƒg‚Å‚ ‚éB
-‹N“®Œã‚É–¼‘O‚Ì“ü—Í‚ðs‚¤‚±‚Æ‚ÅA‚»‚ê‚ÉŠY“–‚·‚éˆ—‚ðŽÀs‚·‚é‚Ì‚¾‚ªA
-ƒCƒ“ƒXƒg[ƒ‰[‚Å’Ç‰Á‚³‚ê‚½ƒ\ƒtƒgƒEƒFƒA‚ÍA–¼Ì‚ª‘S‚Ä‘å•¶Žš‚¾‚Á‚½‚èA¬‡‚µ‚Ä‚¢‚½‚è‚ÆA­‚µ“ü—Í‚ÉŽèŠÔ‚ª‚©‚©‚Á‚Ä‚µ‚Ü‚¤B
-‚»‚ê‚ç‚ð‰ðŒˆ‚·‚é‚½‚ß‚ÉA–{ƒc[ƒ‹‚Å“ü—Í‚·‚×‚«•¶Žš—ñ‚ð•ÒW‚µA‰õ“K‚ÉƒRƒ}ƒ“ƒhƒ‰ƒ“ƒ`ƒƒ[¶Šˆ‚ð’x‚ê‚é‚æ‚¤‚É‚·‚éB
+## ï¿½ï¿½
+ï¿½uï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½wï¿½è‚µï¿½ÄŽï¿½sï¿½v(ï¿½pï¿½ï¿½Å‚ï¿½Run)ï¿½ÍAWin+Rï¿½Lï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å‹Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½tï¿½gï¿½Å‚ï¿½ï¿½ï¿½B
+ï¿½Nï¿½ï¿½ï¿½ï¿½É–ï¿½ï¿½Oï¿½Ì“ï¿½Í‚ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ÉŠYï¿½ï¿½ï¿½ï¿½ï¿½éˆï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½A
+ï¿½Cï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½ï¿½[ï¿½Å’Ç‰ï¿½ï¿½ï¿½ê‚½ï¿½\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½ÍAï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Sï¿½Ä‘å•¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ÉŽï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚½ï¿½ß‚ÉAï¿½{ï¿½cï¿½[ï¿½ï¿½ï¿½Å“ï¿½Í‚ï¿½ï¿½×‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÒWï¿½ï¿½ï¿½Aï¿½ï¿½Kï¿½ÉƒRï¿½}ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½ï¿½B
 
-## ŠJ”­ŠÂ‹«
-Œ¾ŒêFC# .NET Framework
-IDEFVisual Studio 2017
-—˜—pƒVƒXƒeƒ€FWPF (Windows Presentation Foundation)
+## ï¿½Jï¿½ï¿½ï¿½Â‹ï¿½
+ï¿½ï¿½ï¿½ï¿½FC# .NET Framework
+IDEï¿½FVisual Studio 2017
+ï¿½ï¿½ï¿½pï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½FWPF (Windows Presentation Foundation)
+
