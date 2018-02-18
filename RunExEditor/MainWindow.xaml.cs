@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.IO;
 using System.Windows;
 
 namespace RunExEditor
@@ -9,8 +10,18 @@ namespace RunExEditor
 	/// </summary>
 	public partial class MainWindow : Window
 	{
+		const string folder = @"\RunExEditor";
+		readonly string appFolder;
+
 		public MainWindow()
 		{
+			string appData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+			appFolder = appData + folder;
+
+			if (!Directory.Exists(appFolder))
+			{
+				Directory.CreateDirectory(appFolder);
+			}
 			InitializeComponent();
 		}
 
@@ -21,7 +32,9 @@ namespace RunExEditor
 
 		private void OpenRegEdit_Button(object sender, RoutedEventArgs e)
 		{
-			if(MessageBoxResult.Yes == MessageBox.Show("レジストリエディタによる変更は、パソコンが動かなくなる危険性があります。\n開きますか?","警告", MessageBoxButton.YesNo, MessageBoxImage.Warning))
+			string message = "レジストリエディタによる変更は、パソコンが動かなくなる危険性があります。\n開きますか?";
+
+			if (MessageBoxResult.Yes == MessageBox.Show(message,"警告", MessageBoxButton.YesNo, MessageBoxImage.Warning))
 			{
 				Process.Start("regedit.exe");
 			}
