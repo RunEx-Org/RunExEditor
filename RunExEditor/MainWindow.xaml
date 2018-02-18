@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RunExEditor"
         mc:Ignorable="d"
-        Title="RunExEditor ver0.0.1" Height="450" Width="800" Background="White">
-    <Grid>
+        Title="RunExEditor ver0.0.1" Background="White" SizeToContent="WidthAndHeight">
+    <Grid VerticalAlignment="Top" Margin="0,0,0,0" Height="450" Width="800">
         <Menu x:Name="MainMenuBar" Height="22" VerticalAlignment="Top">
             <MenuItem Header="ファイル(_F)" FontFamily="Meiryo UI" Height="22" TextOptions.TextHintingMode="Fixed">
                 <MenuItem Header="開く(_O)" InputGestureText="Ctrl+O"/>
@@ -27,6 +27,19 @@
                 <MenuItem Header="バージョン情報(_A)" IsEnabled="False"/>
             </MenuItem>
         </Menu>
+
+        <ToolBarTray HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="800" Margin="0,22,0,0" Background="#FFF0F0F0">
+
+            <ToolBar Band="1" BandIndex="1">
+                <Button>
+                    <Image Source="" />
+                </Button>
+            </ToolBar>
+        </ToolBarTray>
+
+        <StatusBar HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="800" Margin="0,426,0,0">
+            <StatusBarItem Content="StatusBarItem" Height="24" VerticalAlignment="Top"/>
+        </StatusBar>
 
     </Grid>
 </Window>
